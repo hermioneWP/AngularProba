@@ -1,0 +1,15 @@
+#wrapper{
+  display:flex;
+  justify-content:space-between;
+  background:red;
+}
+
+
+#c1{
+  background:blue;
+}
+
+
+#c2{
+  background:green;
+}
